@@ -13,9 +13,9 @@ function displayFrame()
 
   numFrames = size(stack, 3);
   
-  chosenFrame = str2double(input("Choose which frame # to see"))
+  chosenFrame = str2double(input("Choose which frame # to see"));
   
-  if (isempty(chosenFrame) || chosenFrame == NaN || chosenFrame > numFrames)
+  if (isempty(chosenFrame) || isnan(chosenFrame) || chosenFrame > numFrames)
     chosenFrame = 1;
   end
   
