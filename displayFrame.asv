@@ -17,15 +17,13 @@ function displayFrame()
   % Get max # of frames
   numFrames = size(stack, 3);
   
-  % Get user input for frame #
+  % Get user input for frame 
   chosenFrame = str2double(input("Choose which frame # to see: "));
   
-  % Check if frame valid (default=1)
   if (isempty(chosenFrame) || isnan(chosenFrame) || chosenFrame > numFrames)
     chosenFrame = 1;
   end
   
-  % Display scaled color image with chosen frame + add colorbar
   imagesc(stack(:,:,chosenFrame))
   colorbar
     
