@@ -1,6 +1,6 @@
 # MiCM2021
 
-This repo serves a way to track the progress I've made through the MiCM Summer Scholars Program.
+This repo serves as a way to track the progress I've made through the MiCM Summer Scholars Program.
 
 # Objective
 The code displayFrame.m accepts a user-inputed .tif file and displays the data (a select frame entered by user-input) in the matrix using the full range of colors in the colormap.
