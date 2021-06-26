@@ -18,7 +18,7 @@ The code displayFrame.m accepts a user-inputed .tif file and displays the data (
 
 # Expected Output
 The expected output depends on the input file and frame # you select. A sample output is below:
-![Uploading Screen Shot 2021-06-26 at 1.19.47 AM.png…]()
+![Screen Shot 2021-06-26 at 1 19 47 AM](https://user-images.githubusercontent.com/39393046/123502773-db345380-d61c-11eb-9da8-883530ed1cad.png)
 
 # Current Papers Read
 - ICS chapter from the Comprehensive Biophysics book
