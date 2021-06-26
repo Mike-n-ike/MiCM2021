@@ -2,6 +2,9 @@
 
 This repo serves a way to track the progress I've made through the MiCM Summer Scholars Program.
 
+# Objective
+
+
 
 Current papers read:
 - ICS chapter from the Comprehensive Biophysics book
